@@ -4,6 +4,7 @@
 - 0 desafios de código.
 - 1 live.
 - 5 Mentorias.
+- Carga Horária 73h.
 - Datas: 16/03 a 19/05/23
 
 Prepare-se Para a Jornada: BootCamp Cloud AWS - Amazon Web Services 
