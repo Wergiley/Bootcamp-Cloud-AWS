@@ -1,7 +1,7 @@
 # Bootcamp-Cloud-AWS
 
 <img src="af22d4a0-463f-48c5-a70c-4961d5e618d0.png" align="right" width="200px">
-
+Desc; Conteúdo do bootcamp ainda em off a ser estudado, será atualizado em breve.
 - 34 cursos.
 - 4 desafios de projeto.
 - 0 desafios de código.
