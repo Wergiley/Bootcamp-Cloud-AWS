@@ -14,4 +14,4 @@
 Prepare-se Para a Jornada: BootCamp Cloud AWS - Amazon Web Services 
 Composto por 73 horas de conteúdo que vai do básico até o preparatório para certificações. A trilha é composta por cursos exclusivos AWS e mentorias ao vivo com experts certificados pela plataforma. Uma grande oportunidade de conhecer as certificações AWS e ter destaque no currículo.
 
-<p>Obs; Conteúdo do bootcamp ainda em off a ser estudado, será atualizado em breve.</p>
+<p>Obs; Os conteúdos do bootcamp ainda se encontram em off, pois serão revisados e estudados, será atualizado em breve.</p>
