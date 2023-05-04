@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Atualizando o servidor..."
+echo "Atualizando o servidor, aguarde..."
 apt-get update
 apt-get upgrade -y
 apt-get install apache2 -y
