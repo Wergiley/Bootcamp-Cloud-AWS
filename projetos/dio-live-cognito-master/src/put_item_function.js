@@ -10,7 +10,6 @@ exports.handler = async (event) => {
     
     const params = {
       TableName : 'Items',
-      /* Item properties will depend on your application concerns */
       Item: {
          id: id,
          price: price
@@ -36,4 +35,5 @@ exports.handler = async (event) => {
     };
     
     return response;
+    // Oi, ^_^
 };
